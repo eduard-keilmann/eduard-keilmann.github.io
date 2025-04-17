@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "publications.md", title: "Publications"}
   - {file: "CV.md", title: "CV"}
   - {file: "about_me.md", title: "About me"}
-  {% comment %}- {file: "tutorial.html", title: "tutorial of this theme"}{% endcomment %}
+  #- {file: "tutorial.html", title: "tutorial of this theme"}
   - {file: "README.md", title: "Installation Guide of this theme"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
