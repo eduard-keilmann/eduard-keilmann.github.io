@@ -22,6 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "CV.md", title: "CV"}
   - {file: "README.md", title: "About me"}
   - {file: "tutorial.html", title: "tutorial of this theme"}
+  - {file: "README.md", title: "Installation Gudie of this theme"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:keilmann@ph1.uni-koeln.de"}
