@@ -49,6 +49,8 @@ In addition to playing the piano, I am also involved in bookbinding, which is a 
   "
 />
 
+I am married and have a wonderful son.
+
 {% comment %}
 <img
   src="/assets/IMG_8491_ich.jpg"
