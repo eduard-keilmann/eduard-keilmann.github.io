@@ -28,8 +28,8 @@ Next to playing the piano, I am also into book binding, which is a very calming 
   style="
     float: left;
     margin: 0.5em 0.5em 0.5em 0.5em;       /* top 0, right 1em, bottom 1em, left 0 */
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
@@ -42,8 +42,8 @@ Next to playing the piano, I am also into book binding, which is a very calming 
   style="
     float: left;
     margin: 0.5em 0.5em 0.5em 0.5em;       /* top 0, right 1em, bottom 1em, left 0 */
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
