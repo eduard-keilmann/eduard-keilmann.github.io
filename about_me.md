@@ -31,7 +31,7 @@ Next to playing the piano, I am also doing book binding, which is a very calming
     width: 200px;
     height: 200px;
     object-fit: contain;
-    object-position: 50% 50%;
+    object-position: 50% 20%;
     border-radius: 4px;
   "
 />
@@ -45,7 +45,7 @@ Next to playing the piano, I am also doing book binding, which is a very calming
     width: 200px;
     height: 200px;
     object-fit: contain;
-    object-position: 50% 50%;
+    object-position: 50% 20%;
     border-radius: 2px;
   "
 />
@@ -60,7 +60,7 @@ Next to playing the piano, I am also doing book binding, which is a very calming
     width: 200px;
     height: 200px;
     object-fit: contain;
-    object-position: 50% 50%;
+    object-position: 50% 20%;
     border-radius: 4px;
   "
 />
@@ -76,7 +76,7 @@ Next to playing the piano, I am also doing book binding, which is a very calming
     width: 200px;
     height: 200px;
     object-fit: contain;
-    object-position: 50% 50%;
+    object-position: 50% 20%;
     border-radius: 4px;
   "
 />
@@ -91,7 +91,7 @@ Next to playing the piano, I am also doing book binding, which is a very calming
     width: 300px;
     height: 300px;
     object-fit: contain;
-    object-position: 50% 50%;
+    object-position: 50% 20%;
     border-radius: 2px;
   "
 />
@@ -105,7 +105,7 @@ Next to playing the piano, I am also doing book binding, which is a very calming
     width: 300px;
     height: 300px;
     object-fit: contain;
-    object-position: 50% 50%;
+    object-position: 50% 20%;
     border-radius: 2px;
   "
 />
@@ -120,7 +120,7 @@ Next to playing the piano, I am also doing book binding, which is a very calming
     width: 300px;
     height: 300px;
     object-fit: contain;
-    object-position: 50% 50%;
+    object-position: 50% 20%;
     border-radius: 2px;
   "
 />
