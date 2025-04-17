@@ -21,6 +21,7 @@ layout: page
 
 
 In addition to playing the piano, I am also involved in bookbinding, which is a very calming activity that produces a beautiful result. I am also interested in footbal and hiking. On this page you will find a few impressions of my hiking activities. The pictures range from trips to cities like Vienna to places like the Zugspitze (highest mountain in Germany), a hike to and around the 100m Effelsberg radio telescope, or the Yosemite national park, Arches, and the Grand Canyon.
+
 <img
   src="/assets/IMG_3139_ich.png"
   alt="Me"
