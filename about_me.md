@@ -22,7 +22,7 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
 
 
 <img
-  src="/assets/img/IMG_1779.jpg"
+  src="/IMG_1779.jpg"
   alt="Me"
   class="crop-me"
 />
