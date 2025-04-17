@@ -14,7 +14,7 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
 
 
 
-/* stand-alone image for which text can flow around it
+# /* stand-alone image for which text can flow around it
 # <img
 #  src="/IMG_1779.jpg"
 #  alt="Me"
@@ -28,4 +28,4 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
 #    border-radius: 4px;
 #  "
 #/>
-*/
+# */
