@@ -10,7 +10,7 @@ I am interested in the understanding of how atomic and molecular clouds form in 
 
 
 
-## Some Examples
+# Some Examples
 
 {% if site.show_excerpts %}
   {% include home.html %}
