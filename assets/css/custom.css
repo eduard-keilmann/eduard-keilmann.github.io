@@ -1,0 +1,9 @@
+/* assets/css/custom.css */
+a,
+.post-content a {
+  color: rgb(220, 30, 50) !important;      /* your chosen red */
+}
+a:hover,
+.post-content a:hover {
+  color: rgb(191,14,52) !important;    /* a lighter hover red */
+}
