@@ -39,8 +39,8 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
     margin: 1em 1em 1em 1em;       /* top 0, right 1em, bottom 1em, left 0 */
     width: 200px;
     height: 200px;
-    object-fit: cover;
-    object-position: 50% 30%;
+    object-fit: contain;
+    object-position: 50% 50%;
     border-radius: 4px;
   "
 />
