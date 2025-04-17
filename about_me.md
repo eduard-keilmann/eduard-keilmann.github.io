@@ -20,7 +20,7 @@ layout: page
 />I studied physics (Bachelor and Master of Science) at the University of Mainz, specializing in (theoretical) particle physics. When I started my Ph.D. at the University of Cologne, I began to focus more intensively on astrophysics, in particular star formation and the dynamics of the interstellar medium (ISM).
 
 
-In addition to playing the piano, I am also involved in bookbinding, which is a very calming activity that produces a beautiful result. I am also interested in footbal and hiking. On this page you will find a few impressions of my hiking activities. The pictures range from trips to cities like Vienna to places like the Zugspitze (highest mountain in Germany), a hike to and around the 100m Effelsberg radio telescope, or the Yosemite national park, Arches, and the Grand Canyon.
+In addition to playing the piano, I am also into bookbinding, which is a very calming activity that produces a beautiful result. I am also interested in footbal and hiking. On this page you will find a few impressions of my hiking activities. The pictures range from trips to cities like Vienna to places like the Zugspitze (highest mountain in Germany), a hike to and around the 100m Effelsberg radio telescope, or the Yosemite national park, Arches, and the Grand Canyon.
 
 <img
   src="/assets/IMG_3139_ich.png"
