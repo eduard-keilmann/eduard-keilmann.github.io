@@ -118,8 +118,8 @@ In addition to playing the piano, I am also involved in bookbinding, which is a 
   "
 />
 <img
-  src="/assets/IMG_4558.JPG"
-  alt="Me"
+  src="/assets/IMG_3556.JPG"
+  alt="Grand Canyon"
   style="
     float: left;
     margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
@@ -130,6 +130,248 @@ In addition to playing the piano, I am also involved in bookbinding, which is a 
     border-radius: 2px;
   "
 />
+<img
+  src="/assets/IMG_3653.JPG"
+  alt="USA"
+  style="
+    float: left;
+    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 450px;
+    height: 450px;
+    object-fit: contain;
+    object-position: 50% 20%;
+    border-radius: 2px;
+  "
+/>
+<img
+  src="/assets/IMG_4620.jpg"
+  alt="Golden Gate Bridge"
+  style="
+    float: left;
+    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 450px;
+    height: 450px;
+    object-fit: contain;
+    object-position: 50% 20%;
+    border-radius: 2px;
+  "
+/>
+<img
+  src="/assets/IMG_4972.jpg"
+  alt="Yosemite"
+  style="
+    float: left;
+    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 450px;
+    height: 450px;
+    object-fit: contain;
+    object-position: 50% 20%;
+    border-radius: 2px;
+  "
+/>
+<img
+  src="/assets/IMG_4982.jpg"
+  alt="Yosemite"
+  style="
+    float: left;
+    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 450px;
+    height: 450px;
+    object-fit: contain;
+    object-position: 50% 20%;
+    border-radius: 2px;
+  "
+/>
+<img
+  src="/assets/IMG_4984.jpg"
+  alt="Yosemite"
+  style="
+    float: left;
+    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 450px;
+    height: 450px;
+    object-fit: contain;
+    object-position: 50% 20%;
+    border-radius: 2px;
+  "
+/>
+<img
+  src="/assets/IMG_5011.jpg"
+  alt="Yosemite"
+  style="
+    float: left;
+    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 450px;
+    height: 450px;
+    object-fit: contain;
+    object-position: 50% 20%;
+    border-radius: 2px;
+  "
+/>
+<img
+  src="/assets/IMG_5506.jpg"
+  alt="Grand Canyon"
+  style="
+    float: left;
+    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 450px;
+    height: 450px;
+    object-fit: contain;
+    object-position: 50% 20%;
+    border-radius: 2px;
+  "
+/>
+<img
+  src="/assets/IMG_5643.jpg"
+  alt="Grand Canyon"
+  style="
+    float: left;
+    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 450px;
+    height: 450px;
+    object-fit: contain;
+    object-position: 50% 20%;
+    border-radius: 2px;
+  "
+/>
+<img
+  src="/assets/IMG_5648.jpg"
+  alt="Grand Canyon"
+  style="
+    float: left;
+    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 450px;
+    height: 450px;
+    object-fit: contain;
+    object-position: 50% 20%;
+    border-radius: 2px;
+  "
+/>
+<img
+  src="/assets/IMG_5648.jpg"
+  alt="Grand Canyon"
+  style="
+    float: left;
+    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 450px;
+    height: 450px;
+    object-fit: contain;
+    object-position: 50% 20%;
+    border-radius: 2px;
+  "
+/>
+<img
+  src="/assets/IMG_5711.jpg"
+  alt="Grand Canyon"
+  style="
+    float: left;
+    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 450px;
+    height: 450px;
+    object-fit: contain;
+    object-position: 50% 20%;
+    border-radius: 2px;
+  "
+/>
+<img
+  src="/assets/IMG_5850.jpg"
+  alt="Grand Canyon Antilope"
+  style="
+    float: left;
+    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 450px;
+    height: 450px;
+    object-fit: contain;
+    object-position: 50% 20%;
+    border-radius: 2px;
+  "
+/>
+<img
+  src="/assets/IMG_5961.jpg"
+  alt="USA"
+  style="
+    float: left;
+    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 450px;
+    height: 450px;
+    object-fit: contain;
+    object-position: 50% 20%;
+    border-radius: 2px;
+  "
+/>
+<img
+  src="/assets/IMG_6023.jpg"
+  alt="Arches"
+  style="
+    float: left;
+    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 450px;
+    height: 450px;
+    object-fit: contain;
+    object-position: 50% 20%;
+    border-radius: 2px;
+  "
+/>
+<img
+  src="/assets/IMG_4874.jpg"
+  alt="USA"
+  style="
+    float: left;
+    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 450px;
+    height: 450px;
+    object-fit: contain;
+    object-position: 50% 20%;
+    border-radius: 2px;
+  "
+/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 {% comment %}  comment out
  <img
