@@ -32,7 +32,7 @@ Next to playing the piano, I am also doing book binding, which is a very calming
     height: 200px;
     object-fit: contain;
     object-position: 50% 20%;
-    border-radius: 4px;
+    border-radius: 2px;
   "
 />
 
