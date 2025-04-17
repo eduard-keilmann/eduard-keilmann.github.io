@@ -44,7 +44,7 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
     height: 200px;
     object-fit: contain;
     object-position: 50% 50%;
-    border-radius: 4px;
+    border-radius: 2px;
   "
 />
 
@@ -90,7 +90,7 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
     height: 300px;
     object-fit: contain;
     object-position: 50% 50%;
-    border-radius: 4px;
+    border-radius: 2px;
   "
 />
 
@@ -119,7 +119,7 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
     height: 300px;
     object-fit: contain;
     object-position: 50% 50%;
-    border-radius: 4px;
+    border-radius: 2px;
   "
 />
 
