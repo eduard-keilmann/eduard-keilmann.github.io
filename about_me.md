@@ -83,8 +83,8 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
   style="
     float: left;
     margin: 1em 1em 1em 1em;       /* top 0, right 1em, bottom 1em, left 0 */
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     object-fit: contain;
     object-position: 50% 50%;
     border-radius: 4px;
@@ -97,11 +97,11 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
   style="
     float: left;
     margin: 1em 1em 1em 1em;       /* top 0, right 1em, bottom 1em, left 0 */
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     object-fit: contain;
     object-position: 50% 50%;
-    border-radius: 4px;
+    border-radius: 8px;
   "
 />
 
@@ -112,8 +112,8 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
   style="
     float: left;
     margin: 1em 1em 1em 1em;       /* top 0, right 1em, bottom 1em, left 0 */
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     object-fit: contain;
     object-position: 50% 50%;
     border-radius: 4px;
