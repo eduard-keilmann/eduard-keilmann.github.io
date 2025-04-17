@@ -3,10 +3,9 @@ title: "[CII]-deficit in RCW79"
 layout: post
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+We show that the notorious [CII]-deficit (relative to the far-IR flux) can be explained by [CII] self-absorption without the need for secondary effects, at least in the young galactic bubble we study here (S144 in RCW79). Correcting for the missing flux makes the deficit vanish. In extragalactic, more extreme or evolved regions further effects might however become important.
 
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Read the full article [here](https://arxiv.org/abs/2504.08976).
 
 Jekyll also offers powerful support for code snippets:
 
