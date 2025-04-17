@@ -14,18 +14,18 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
 
 
 
-# /* stand-alone image for which text can flow around it
-# <img
-#  src="/IMG_1779.jpg"
-#  alt="Me"
-#  style="
-#    float: left;
-#    margin: 0 1em 1em 0;       /* top 0, right 1em, bottom 1em, left 0 */
-#    width: 200px;
-#    height: 200px;
-#    object-fit: cover;
-#    object-position: 50% 20%;
-#    border-radius: 4px;
-#  "
-#/>
-# */
+{% comment %}
+ <img
+  src="/IMG_1779.jpg"
+  alt="Me"
+  style="
+    float: left;
+    margin: 0 1em 1em 0;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: 50% 20%;
+    border-radius: 4px;
+  "
+/>
+{% endcomment %}
