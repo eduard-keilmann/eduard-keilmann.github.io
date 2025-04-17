@@ -30,4 +30,5 @@ Zülpicher Straße, 77
 50927 Köln  
 Germany  
 
+[📧](mailto:keilmann@ph1.uni-koeln.de)
 {title: Mail, icon: envelope, url: "mailto:keilmann@ph1.uni-koeln.de"}
