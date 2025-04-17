@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "research.md", title: "Research"}
   - {file: "publications.md", title: "Publications"}
   - {file: "CV.md", title: "CV"}
-  - {file: "README.md", title: "About me"}
+  - {file: "about_me.md", title: "About me"}
   - {file: "tutorial.html", title: "tutorial of this theme"}
   - {file: "README.md", title: "Installation Guide of this theme"}
 
