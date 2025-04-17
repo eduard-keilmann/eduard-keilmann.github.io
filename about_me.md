@@ -56,7 +56,7 @@ Next to playing the piano, I am also into book binding, which is a very calming 
   alt="Me"
   style="
     float: left;
-    margin: 0.5em 0.5em 0.5em 0.5em;       /* top 0, right 1em, bottom 1em, left 0 */
+    margin: 0.5px 0.5px 0.5px 0.5px;       /* top 0, right 1em, bottom 1em, left 0 */
     width: 450px;
     height: 450px;
     object-fit: contain;
@@ -87,7 +87,7 @@ Next to playing the piano, I am also into book binding, which is a very calming 
   alt="Me"
   style="
     float: left;
-    margin: 0.5em 0.5em 0.5em 0.5em;       /* top 0, right 1em, bottom 1em, left 0 */
+    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
     width: 450px;
     height: 450px;
     object-fit: contain;
@@ -101,7 +101,7 @@ Next to playing the piano, I am also into book binding, which is a very calming 
   alt="Me"
   style="
     float: left;
-    margin: 0.5em 0.5em 0.5em 0.5em;       /* top 0, right 1em, bottom 1em, left 0 */
+    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
     width: 450px;
     height: 450px;
     object-fit: contain;
