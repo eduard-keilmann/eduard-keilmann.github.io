@@ -34,3 +34,16 @@ a:hover,
   opacity: 0.2;                   /* adjust opacity */
   z-index: -1;                    /* behind the menu text */
 }
+
+
+
+/* in assets/css/custom.css */
+.crop-me {
+  width: 200px;            /* your desired box */
+  height: 200px;           /* your desired box */
+  object-fit: cover;       /* ✓ preserves aspect ratio, crops overflow */
+  object-position: 50% 20%;/* ✓ choose your “cut‑out” focal point */
+  display: block;          /* avoids inline‑img descenders */
+  border-radius: 4px;      /* optional styling */
+}
+
