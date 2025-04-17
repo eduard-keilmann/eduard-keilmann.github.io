@@ -1,5 +1,6 @@
 ---
 title: "[CII]-deficit in RCW79"
+mathjax: true
 layout: post
 ---
 
