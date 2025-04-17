@@ -315,8 +315,32 @@ I am married and have a wonderful son.
     border-radius: 2px;
   "
 />
-
-
+<img
+  src="/assets/IMG_9816.JPG"
+  alt="me at the board during my masters thesis"
+  style="
+    float: left;
+    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 450px;
+    height: 450px;
+    object-fit: contain;
+    object-position: 50% 20%;
+    border-radius: 2px;
+  "
+/>
+<img
+  src="/assets/IMG_3122_ich.png"
+  alt="me"
+  style="
+    float: left;
+    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 450px;
+    height: 450px;
+    object-fit: contain;
+    object-position: 50% 20%;
+    border-radius: 2px;
+  "
+/>
 
 
 
