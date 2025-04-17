@@ -12,8 +12,8 @@ A selection of my research interests is presented at the [research](research.md)
 If you are interested in a little more personal information about me, you can find some [here](about_me.md).
 
 ![Lagoon Nebula](lagoon.jpg)
-Lagoon nebula as measured by the Hubble Space Telescope. To me the most beautiful image of the sky. 
-Image Credit: NASA
+Lagoon nebula as measured by the Hubble Space Telescope. To me the most beautiful image of the sky.  
+Image Credit: NASA  
 
 
 {% comment %}
@@ -22,13 +22,12 @@ Image Credit: NASA
 </div>
 {% endcomment %}
 
-
+  
 ### Contact
 
 I. Physikalisches Insitut, University of Cologne\\
-Zülpicher Straße, 77
-50927 Köln
-Germany
+Zülpicher Straße, 77  
+50927 Köln  
+Germany  
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:keilmann@ph1.uni-koeln.de"}
+{title: Mail, icon: envelope, url: "mailto:keilmann@ph1.uni-koeln.de"}
