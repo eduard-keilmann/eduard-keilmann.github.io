@@ -18,3 +18,11 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
     border-radius: 4px;
   "
 />
+
+
+
+<img
+  src="/assets/img/IMG_1779.jpg"
+  alt="Me"
+  class="crop-me"
+/>
