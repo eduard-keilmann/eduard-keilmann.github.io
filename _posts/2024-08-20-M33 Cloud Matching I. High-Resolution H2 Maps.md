@@ -1,6 +1,6 @@
 ---
 mathjax: true
-title: "M33 Cloud Matching I. High-Resolution H_2 Maps"
+title: "M33 Cloud Matching I. High-Resolution H2 Maps"
 layout: post
 ---
 
