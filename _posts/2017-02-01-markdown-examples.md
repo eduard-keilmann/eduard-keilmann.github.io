@@ -1,5 +1,6 @@
 ---
 title:  "Markdown examples"
+mathjax: true
 layout: post
 ---
 
