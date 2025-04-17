@@ -6,7 +6,7 @@ layout: page
 ---
 
 I have studied Physics (Bachelor and Master of Science) at the University of Mainz, specializing in (theoretical) particle physics.
-With starting my PhD at the University of Cologne I began to dig deeper into astrophysics, especially into star formation and the dynamcis of the interstellar medium (ISM).
+With starting my PhD at the University of Cologne I began to dig deeper into astrophysics, 
 <img
   src="/IMG_1779.jpg"
   alt="Me"
@@ -18,5 +18,7 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
     border-radius: 4px;
   "
 />
+especially into star formation and the dynamcis of the interstellar medium (ISM).
+
 
 
