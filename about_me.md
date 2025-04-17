@@ -6,7 +6,7 @@ layout: page
 ---
 
 I <img
-  src="./assets/IMG_1246_ich.jpg"
+  src="./assets/IMG_1246_ich.png"
   alt="Me"
   class="float-image-left"
 />  have studied Physics (Bachelor and Master of Science) at the University of Mainz, specializing in (theoretical) particle physics.
@@ -16,7 +16,7 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
 
 {% comment %}
  <img
-  src="/assets/IMG_1246_ich.jpg"
+  src="/assets/IMG_1246_ich.png"
   alt="Me"
   style="
     float: left;
