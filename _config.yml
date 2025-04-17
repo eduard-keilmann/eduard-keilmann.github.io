@@ -10,13 +10,13 @@ date_format: "%B %d, %Y"
 
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: true        # show a sidebar instead of the usual header
+show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
+  # - {file: "index.html"}
   - {file: "research.md", title: "Research"}
   - {file: "publications.md", title: "Publications"}
   - {file: "CV.md", title: "CV"}
@@ -24,7 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:keilmann@ph1.uni-koeln.de"}
-  - {title: LinkedIn, icon: github, url: "https://de.linkedin.com/in/eduard-keilmann-a0b35b281"}
+  - {title: LinkedIn, icon: LinkedIn, url: "https://de.linkedin.com/in/eduard-keilmann-a0b35b281"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
