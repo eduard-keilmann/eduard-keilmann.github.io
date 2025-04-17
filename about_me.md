@@ -20,7 +20,7 @@ layout: page
 />I studied physics (Bachelor and Master of Science) at the University of Mainz, specializing in (theoretical) particle physics. When I started my Ph.D. at the University of Cologne, I began to focus more intensively on astrophysics, in particular star formation and the dynamics of the interstellar medium (ISM).
 
 
-Next to playing the piano, I am also doing book binding, which is a very calming activity producing a nice finish. Besides that I am also interested in football and hiking. At this page you find a few impressions of my hiking activities. The pictures range from trips to cities like Vienna to places such as the Zugspitze (highest mauntain in Germany), a hiking to around the 100m Effelsberg radio telescope, and the Grand Canyon.
+Next to playing the piano, I am also into book binding, which is a very calming activity producing a nice finish. Besides that I am also interested in football and hiking. At this page you find a few impressions of my hiking activities. The pictures range from trips to cities like Vienna to places such as the Zugspitze (highest mauntain in Germany), a hiking to around the 100m Effelsberg radio telescope, and the Grand Canyon.
 
 <img
   src="/assets/IMG_3139_ich.png"
@@ -28,8 +28,8 @@ Next to playing the piano, I am also doing book binding, which is a very calming
   style="
     float: left;
     margin: 0.5em 0.5em 0.5em 0.5em;       /* top 0, right 1em, bottom 1em, left 0 */
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
@@ -42,8 +42,8 @@ Next to playing the piano, I am also doing book binding, which is a very calming
   style="
     float: left;
     margin: 0.5em 0.5em 0.5em 0.5em;       /* top 0, right 1em, bottom 1em, left 0 */
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
@@ -57,8 +57,8 @@ Next to playing the piano, I am also doing book binding, which is a very calming
   style="
     float: left;
     margin: 0.5em 0.5em 0.5em 0.5em;       /* top 0, right 1em, bottom 1em, left 0 */
-    width: 400px;
-    height: 400px;
+    width: 450px;
+    height: 450px;
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 4px;
@@ -73,8 +73,8 @@ Next to playing the piano, I am also doing book binding, which is a very calming
   style="
     float: left;
     margin: 0.5em 0.5em 0.5em 0.5em;       /* top 0, right 1em, bottom 1em, left 0 */
-    width: 400px;
-    height: 400px;
+    width: 450px;
+    height: 450px;
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 4px;
@@ -88,8 +88,8 @@ Next to playing the piano, I am also doing book binding, which is a very calming
   style="
     float: left;
     margin: 0.5em 0.5em 0.5em 0.5em;       /* top 0, right 1em, bottom 1em, left 0 */
-    width: 400px;
-    height: 400px;
+    width: 450px;
+    height: 450px;
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
@@ -102,8 +102,8 @@ Next to playing the piano, I am also doing book binding, which is a very calming
   style="
     float: left;
     margin: 0.5em 0.5em 0.5em 0.5em;       /* top 0, right 1em, bottom 1em, left 0 */
-    width: 400px;
-    height: 400px;
+    width: 450px;
+    height: 450px;
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
@@ -117,8 +117,8 @@ Next to playing the piano, I am also doing book binding, which is a very calming
   style="
     float: left;
     margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
-    width: 400px;
-    height: 400px;
+    width: 450px;
+    height: 450px;
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
