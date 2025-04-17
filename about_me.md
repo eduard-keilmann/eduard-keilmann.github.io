@@ -10,7 +10,7 @@ I <img
   alt="Me"
   style="
     float: left;
-    margin: 1em 1em 1em 1em;       /* top 0, right 1em, bottom 1em, left 0 */
+    margin: 0.5em 0.5em 0.5em 0.5em;       /* top 0, right 1em, bottom 1em, left 0 */
     width: 200px;
     height: 200px;
     object-fit: contain;
@@ -25,7 +25,7 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
   alt="Me"
   style="
     float: left;
-    margin: 1em 1em 1em 1em;       /* top 0, right 1em, bottom 1em, left 0 */
+    margin: 0.5em 0.5em 0.5em 0.5em;       /* top 0, right 1em, bottom 1em, left 0 */
     width: 200px;
     height: 200px;
     object-fit: contain;
@@ -39,7 +39,7 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
   alt="Me"
   style="
     float: left;
-    margin: 1em 1em 1em 1em;       /* top 0, right 1em, bottom 1em, left 0 */
+    margin: 0.5em 0.5em 0.5em 0.5em;       /* top 0, right 1em, bottom 1em, left 0 */
     width: 200px;
     height: 200px;
     object-fit: contain;
@@ -54,7 +54,23 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
   alt="Me"
   style="
     float: left;
-    margin: 1em 1em 1em 1em;       /* top 0, right 1em, bottom 1em, left 0 */
+    margin: 0.5em 0.5em 0.5em 0.5em;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    object-position: 50% 50%;
+    border-radius: 4px;
+  "
+/>
+
+
+
+ <img
+  src="/assets/IMG_1246_ich.png"
+  alt="Me"
+  style="
+    float: left;
+    margin: 0.5em 0.5em 0.5em 0.5em;       /* top 0, right 1em, bottom 1em, left 0 */
     width: 200px;
     height: 200px;
     object-fit: contain;
@@ -64,27 +80,12 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
 />
 {% endcomment %}
 
-
- <img
-  src="/assets/IMG_1246_ich.png"
-  alt="Me"
-  style="
-    float: left;
-    margin: 1em 1em 1em 1em;       /* top 0, right 1em, bottom 1em, left 0 */
-    width: 200px;
-    height: 200px;
-    object-fit: contain;
-    object-position: 50% 50%;
-    border-radius: 4px;
-  "
-/>
-
 <img
   src="/assets/IMG_5637.jpg"
   alt="Me"
   style="
     float: left;
-    margin: 1em 1em 1em 1em;       /* top 0, right 1em, bottom 1em, left 0 */
+    margin: 0.5em 0.5em 0.5em 0.5em;       /* top 0, right 1em, bottom 1em, left 0 */
     width: 300px;
     height: 300px;
     object-fit: contain;
@@ -98,7 +99,7 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
   alt="Me"
   style="
     float: left;
-    margin: 1em 1em 1em 1em;       /* top 0, right 1em, bottom 1em, left 0 */
+    margin: 0.5em 0.5em 0.5em 0.5em;       /* top 0, right 1em, bottom 1em, left 0 */
     width: 300px;
     height: 300px;
     object-fit: contain;
@@ -113,7 +114,7 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
   alt="Me"
   style="
     float: left;
-    margin: 1em 1em 1em 1em;       /* top 0, right 1em, bottom 1em, left 0 */
+    margin: 0.5em 0.5em 0.5em 0.5em;       /* top 0, right 1em, bottom 1em, left 0 */
     width: 300px;
     height: 300px;
     object-fit: contain;
