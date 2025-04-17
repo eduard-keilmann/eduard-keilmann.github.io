@@ -21,7 +21,6 @@ layout: page
 
 
 In addition to playing the piano, I am also involved in bookbinding, which is a very calming activity that produces a beautiful result. I am also interested in footbal and hiking. On this page you will find a few impressions of my hiking activities. The pictures range from trips to cities like Vienna to places like the Zugspitze (highest mountain in Germany), a hike to and around the 100m Effelsberg radio telescope, and the Grand Canyon.
-
 <img
   src="/assets/IMG_3139_ich.png"
   alt="Me"
@@ -35,7 +34,6 @@ In addition to playing the piano, I am also involved in bookbinding, which is a 
     border-radius: 2px;
   "
 />
-
 <img
   src="/assets/IMG_3949_ich.png"
   alt="Me"
@@ -65,8 +63,6 @@ In addition to playing the piano, I am also involved in bookbinding, which is a 
   "
 />
 
-
-
  <img
   src="/assets/IMG_1246_ich.png"
   alt="Me"
@@ -95,7 +91,6 @@ In addition to playing the piano, I am also involved in bookbinding, which is a 
     border-radius: 2px;
   "
 />
-
 <img
   src="/assets/IMG_8459.jpg"
   alt="Me"
@@ -109,8 +104,6 @@ In addition to playing the piano, I am also involved in bookbinding, which is a 
     border-radius: 2px;
   "
 />
-
-
 <img
   src="/assets/IMG_8491.jpg"
   alt="Me"
@@ -124,7 +117,19 @@ In addition to playing the piano, I am also involved in bookbinding, which is a 
     border-radius: 2px;
   "
 />
-
+<img
+  src="/assets/IMG_4558.JPG"
+  alt="Me"
+  style="
+    float: left;
+    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 450px;
+    height: 450px;
+    object-fit: contain;
+    object-position: 50% 20%;
+    border-radius: 2px;
+  "
+/>
 
 {% comment %}  comment out
  <img
