@@ -21,6 +21,18 @@ plugins:
   - jekyll-remote-theme
 ```
 
+---
+layout: default
+title: "Home"
+---
+
+I am an Doctoral Candidate at the University of Cologne in Physics Department at the research group of Prof. Dr. Dominik Riechers.
+
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
 
 
 ## MathJax
