@@ -25,7 +25,6 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
   alt="Me"
   class="float-me"
 />
-
 especially into star formation and the dynamcis of the interstellar medium (ISM).
 
 
