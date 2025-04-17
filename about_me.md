@@ -20,8 +20,11 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
     border-radius: 4px;
   "
 />
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non ...
+<img
+  src="/IMG_1779.jpg"
+  alt="Me"
+  class="float-me"
+/>
 
 especially into star formation and the dynamcis of the interstellar medium (ISM).
 
