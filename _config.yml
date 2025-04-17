@@ -26,7 +26,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:keilmann@ph1.uni-koeln.de"}
-  - {title: NASA ADS, icon: telescope, url: "https://ui.adsabs.harvard.edu/public-libraries/RGi-dPyyQlq1n4eZFpzLAw"}
+  - {title: NASA ADS, icon: atom, url: "https://ui.adsabs.harvard.edu/public-libraries/RGi-dPyyQlq1n4eZFpzLAw"}
   - {title: ORDCID, icon: orcid, url: "https://orcid.org/0000-0003-1735-2021"}
   - {title: Scopus, icon: database, url: "https://www.scopus.com/authid/detail.uri?authorId=57211265590"}
   - {title: LinkedIn, icon: linkedin, url: "https://de.linkedin.com/in/eduard-keilmann-a0b35b281"}
