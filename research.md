@@ -1,5 +1,6 @@
 ---
 title: "Research interests"
+mathjax: true
 permalink: "/research/"
 layout: page
 ---
