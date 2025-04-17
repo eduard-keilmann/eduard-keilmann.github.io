@@ -1,6 +1,7 @@
 ---
 title: "About me"
 permalink: "/about/"
+mathjax: true
 layout: page
 ---
 
