@@ -40,7 +40,7 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
     width: 200px;
     height: 200px;
     object-fit: cover;
-    object-position: 40% 20%;
+    object-position: 70% 20%;
     border-radius: 4px;
   "
 />
