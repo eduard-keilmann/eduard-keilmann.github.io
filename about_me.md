@@ -63,7 +63,7 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
   "
 />
 
-
+Next to playing the piano, I am also doing book binding, which is a very calming activity producing a nice finish. Besides that I am also interested in football and hiking. At this page you find a few impressions of my hiking activities.
 
  <img
   src="/assets/IMG_1246_ich.png"
