@@ -1,5 +1,6 @@
 ---
 title: "Welcome to Jekyll"
+mathjax: true
 layout: post
 ---
 
