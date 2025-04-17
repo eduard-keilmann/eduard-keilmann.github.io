@@ -1,5 +1,6 @@
 ---
 title: ""
+mathjax: true
 layout: page
 ---
 
