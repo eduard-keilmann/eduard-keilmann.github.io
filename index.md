@@ -12,7 +12,7 @@ A selection of my research interests is presented at the [research](research.md)
 If you are interested in a little more personal information about me, you can find some [here](about_me.md).
 
 ![Lagoon Nebula](lagoon.jpg)
-Lagoon nebula as measured by the Hubble Space Telescope. To me the most beautiful image of the sky.  
+Lagoon nebula as measured by the Hubble Space Telescope. For me, the most beautiful image of the sky.  
 Image Credit: NASA  
 <br>
 
