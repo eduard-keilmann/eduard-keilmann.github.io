@@ -12,6 +12,15 @@ I am interested in the understanding of how atomic and molecular clouds form in 
 
 ## Some Examples
 
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
+
+
+## config
+
 You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
 
 ```yaml
@@ -21,18 +30,6 @@ plugins:
   - jekyll-remote-theme
 ```
 
----
-layout: default
-title: "Home"
----
-
-I am an Doctoral Candidate at the University of Cologne in Physics Department at the research group of Prof. Dr. Dominik Riechers.
-
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
 
 
 ## MathJax
