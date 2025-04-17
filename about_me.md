@@ -8,7 +8,7 @@ layout: page
 I <img
   src="/IMG_1779.jpg"
   alt="Me"
-  class="float-image-right"
+  class="float-image-left"
 />  have studied Physics (Bachelor and Master of Science) at the University of Mainz, specializing in (theoretical) particle physics.
 With starting my PhD at the University of Cologne I began to dig deeper into astrophysics, especially into star formation and the dynamcis of the interstellar medium (ISM).
 
