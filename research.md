@@ -6,7 +6,9 @@ layout: page
 
 ## Research Interests
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Studying and understanding how (atomic and) molecular clouds form in the Milky Way and external galaxies (leading to star formation), and how stellar feedback mechanisms affect the Interstellar Medium (ISM). I also work on [CII] data from the NASA SOFIA program FEEDBACK at the I. Physikalisches Institut, Universität zu Köln. This encompasses activities such as exploring and analysing astrophysical data, modelling dust dynamics, as well as modelling and studying photodissociation regions (PDRs). It also involves developing various techniques in those areas.
+
+
 
 ## Features
 
@@ -86,14 +88,3 @@ plugins:
 
 Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
 
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
