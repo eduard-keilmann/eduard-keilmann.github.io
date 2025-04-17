@@ -63,7 +63,7 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
   "
 />
 
-Next to playing the piano, I am also doing book binding, which is a very calming activity producing a nice finish. Besides that I am also interested in football and hiking. At this page you find a few impressions of my hiking activities.
+Next to playing the piano, I am also doing book binding, which is a very calming activity producing a nice finish. Besides that I am also interested in football and hiking. At this page you find a few impressions of my hiking activities. The pictures range from trips to cities like Vienna to places such as the Zugspitze (highest mauntain in Germany), a hiking to around the 100m Effelsberg radio telescope, and the Grand Canyon.
 
  <img
   src="/assets/IMG_1246_ich.png"
