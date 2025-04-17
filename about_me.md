@@ -8,26 +8,58 @@ layout: page
 I <img
   src="/assets/IMG_1246_ich.png"
   alt="Me"
-  class="float-image-left"
+  style="
+    float: left;
+    margin: 1em 1em 1em 1em;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    object-position: 50% 50%;
+    border-radius: 4px;
+  "
 />  have studied Physics (Bachelor and Master of Science) at the University of Mainz, specializing in (theoretical) particle physics.
 With starting my PhD at the University of Cologne I began to dig deeper into astrophysics, especially into star formation and the dynamcis of the interstellar medium (ISM).
 
 <img
   src="/assets/IMG_3139_ich.png"
   alt="Me"
-  class="float-image-left"
+  style="
+    float: left;
+    margin: 1em 1em 1em 1em;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    object-position: 50% 50%;
+    border-radius: 4px;
+  "
 />
 
 <img
   src="/assets/IMG_3949_ich.png"
   alt="Me"
-  class="float-image-left"
+  style="
+    float: left;
+    margin: 1em 1em 1em 1em;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    object-position: 50% 50%;
+    border-radius: 4px;
+  "
 />
 
 <img
   src="/assets/IMG_8491_ich.jpg"
   alt="Me"
-  class="float-image-left"
+  style="
+    float: left;
+    margin: 1em 1em 1em 1em;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    object-position: 50% 50%;
+    border-radius: 4px;
+  "
 />
 
 
@@ -48,20 +80,44 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
 <img
   src="/assets/IMG_5637.jpg"
   alt="Me"
-  class="float-image-left"
+  style="
+    float: left;
+    margin: 1em 1em 1em 1em;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    object-position: 50% 50%;
+    border-radius: 4px;
+  "
 />
 
 <img
   src="/assets/IMG_8459.jpg"
   alt="Me"
-  class="float-image-left"
+  style="
+    float: left;
+    margin: 1em 1em 1em 1em;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    object-position: 50% 50%;
+    border-radius: 4px;
+  "
 />
 
 
 <img
   src="/assets/IMG_8491.jpg"
   alt="Me"
-  class="float-image-left"
+  style="
+    float: left;
+    margin: 1em 1em 1em 1em;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    object-position: 50% 50%;
+    border-radius: 4px;
+  "
 />
 
 
