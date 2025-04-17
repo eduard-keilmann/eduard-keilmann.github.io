@@ -1,6 +1,7 @@
 ---
 title: "installation"
 permalink: "/installation/"
+mathjax: true
 layout: page
 ---
 
