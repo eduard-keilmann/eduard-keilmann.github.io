@@ -10,7 +10,7 @@ I am interested in the understanding of how atomic and molecular clouds form in 
 
 
 
-## Some Exampls
+## Some Examples
 
 You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
 
