@@ -15,7 +15,7 @@ If you are interested in a little more personal information about me, you can fi
 
 ![Lagoon Nebula](lagoon.jpg)
 Lagoon nebula (M8) as measured by the Hubble Space Telescope. For me, the most beautiful image of the sky.  
-Image Credit: [NASA](https://science.nasa.gov/asset/hubble/lagoon-nebula-visible-light-view/)  
+Image Credit: [NASA](https://science.nasa.gov/asset/hubble/lagoon-nebula-visible-light-view/), ESA, and STScI  
 <br>
 
 {% comment %}
