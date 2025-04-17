@@ -48,6 +48,7 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
   "
 />
 
+{% comment %}
 <img
   src="/assets/IMG_8491_ich.jpg"
   alt="Me"
@@ -61,6 +62,7 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
     border-radius: 4px;
   "
 />
+{% endcomment %}
 
 
  <img
