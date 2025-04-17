@@ -103,7 +103,7 @@ With starting my PhD at the University of Cologne I began to dig deeper into ast
     height: 300px;
     object-fit: contain;
     object-position: 50% 50%;
-    border-radius: 8px;
+    border-radius: 2px;
   "
 />
 
