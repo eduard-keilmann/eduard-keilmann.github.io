@@ -9,6 +9,7 @@ A sample of my research interests can be found in [Research Interests](research.
 If you are interested in some more personal note about myself, you can find a bit [here](about_me.md).
 
 ![Lagoon Nebula](lagoon.jpg)
+Lagoon nebula as measured by the Hubble Space Telescope.
 Image Credit: NASA
 
 
