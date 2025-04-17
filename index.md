@@ -26,9 +26,8 @@ Image Credit: NASA
 ### Contact
 
 I. Physikalisches Insitut, University of Cologne\\
-Zülpicher Straße, 77  
+Zülpicher Straße 77  
 50937 Köln  
 Germany  
 
-[📧](mailto:keilmann@ph1.uni-koeln.de)
-{title: Mail, icon: envelope, url: "mailto:keilmann@ph1.uni-koeln.de"}
+[📧](mailto:keilmann@ph1.uni-koeln.de) E-Mail
