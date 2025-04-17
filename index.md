@@ -8,5 +8,6 @@ I am a Doctoral Candidate at the University of Cologne in the Physics Department
 A sample of my research interests can be found in ![Research Interests](research.md). A list of my publications as first author and co-author is located ![here](publications.md) and my CV is found ![here](CV.md). If you are interested in some more personal note about mysefl, you can find a bit ![here](about_me.md).
 
 ![Lagoon Nebula](lagoon.jpg)
+Image Credit: NASA
 
 
