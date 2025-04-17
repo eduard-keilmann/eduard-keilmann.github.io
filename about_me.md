@@ -15,7 +15,7 @@ I <img
     height: 200px;
     object-fit: contain;
     object-position: 50% 50%;
-    border-radius: 4px;
+    border-radius: 2px;
   "
 />  have studied Physics (Bachelor and Master of Science) at the University of Mainz, specializing in (theoretical) particle physics.
 With starting my PhD at the University of Cologne I began to dig deeper into astrophysics, especially into star formation and the dynamcis of the interstellar medium (ISM).
