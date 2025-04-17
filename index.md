@@ -11,7 +11,7 @@ I am a Doctoral Candidate at the [I. Physikalisches Institut](https://astro.uni-
 A selection of my research interests is presented at the [research](research.md) page. My publications as first author and co-author are listed [here](publications.md), while my CV can be found [here](CV.md). 
 If you are interested in a little more personal information about me, you can find some [here](about_me.md).
 
-I am a member of the FEEDBACK consortium, a NASA SOFIA project that has used the upGREAT heterodyne receiver to map the 158 micrometer line [CII] in galactic molecular clouds. It studies the interaction of massive stars with their environment (stellar feedback) in a sample of 11 sources with stellar properties ranging from single OB stars to small groups of O stars to rich young star clusters and mini starbursts.
+I am a member of the [FEEDBACK](https://astro.uni-koeln.de/riechers/research/feedback) [consortium](https://feedback.astro.umd.edu/index.html), a NASA SOFIA project that has used the upGREAT heterodyne receiver to map the 158 micrometer line [CII] in galactic molecular clouds. It studies the interaction of massive stars with their environment (stellar feedback) in a sample of 11 sources with stellar properties ranging from single OB stars to small groups of O stars to rich young star clusters and mini starbursts.
 
 
 ![Lagoon Nebula](lagoon.jpg)
