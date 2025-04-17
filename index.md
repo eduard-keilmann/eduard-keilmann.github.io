@@ -16,6 +16,8 @@ Lagoon nebula as measured by the Hubble Space Telescope.
 Image Credit: NASA
 
 
+{% comment %}
 <div class="home-sidebar-profile">
   <img src="lagoon.jpg" alt="My photo" />
 </div>
+{% endcomment %}
