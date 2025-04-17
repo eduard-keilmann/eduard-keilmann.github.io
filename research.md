@@ -19,7 +19,7 @@ I am interested in the understanding of how atomic and molecular clouds form in 
   {% include archive.html title="Posts" %}
 {% endif %}
 
-
+{% comment %}
 ## config
 
 You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
@@ -36,4 +36,4 @@ plugins:
 ## MathJax
 
 Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
+{% endcomment %}
