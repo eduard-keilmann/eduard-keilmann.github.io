@@ -5,7 +5,7 @@ mathjax: true
 layout: page
 ---
 
-<!--
+
 <img
   src="/assets/IMG_1246_ich.png"
   alt="Me"
@@ -18,8 +18,7 @@ layout: page
     object-position: 50% 50%;
     border-radius: 2px;
   "
-/>
--->I studied physics (Bachelor and Master of Science) at the University of Mainz, specializing in (theoretical) particle physics. When I started my Ph.D. at the University of Cologne, I began to focus more intensively on astrophysics, in particular star formation and the dynamics of the interstellar medium (ISM).
+/>I studied physics (Bachelor and Master of Science) at the University of Mainz, specializing in (theoretical) particle physics. When I started my Ph.D. at the University of Cologne, I began to focus more intensively on astrophysics, in particular star formation and the dynamics of the interstellar medium (ISM).
 
 {% comment %}
 In addition to playing the piano, I am also into bookbinding, which is a very calming activity that produces a beautiful result. Besides that I do woodworking, drawing, reading, biking, and I am also interested in football and hiking. On this page you will find a few impressions of my hiking activities. The pictures range from trips to cities like Vienna and the Zugspitze (highest mountain in Germany), a hike to and around the 100m Effelsberg radio telescope, over to places like the Yosemite national park, Arches, and the Grand Canyon.
