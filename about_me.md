@@ -23,7 +23,7 @@ layout: page
 In addition to playing the piano, I am also into bookbinding, which is a very calming activity that produces a beautiful result. Besides that I do woodworking, drawing, reading, and I am also interested in football and hiking. On this page you will find a few impressions of my hiking activities. The pictures range from trips to cities like Vienna and the Zugspitze (highest mountain in Germany), a hike to and around the 100m Effelsberg radio telescope, over to places like the Yosemite national park, Arches, and the Grand Canyon.
 {% endcomment %}
 
-In addition to playing the piano, I am also into bookbinding, which is a very calming activity that produces a beautiful result. I also enjoy woodworking, drawing, reading, football and hiking. On this page you will find a few impressions of my hiking activities. The pictures range from trips to cities like Vienna and the Zugspitze (Germany's highest mountain), a hike to and around the 100m Effelsberg radio telescope, or the Yosemite National Park, Arches and the Grand Canyon.
+In addition to playing the piano, I am also into bookbinding, which is a very calming activity that produces a beautiful result. I also enjoy woodworking, drawing, reading, football and hiking. On this page you will find a few impressions of my hiking activities. The pictures range from trips to cities like Vienna and the Zugspitze (Germany's highest mountain), a hike to and around the 100m radio telescope Effelsberg, or the Yosemite National Park, Arches and the Grand Canyon.
 
 <img
   src="/assets/IMG_3139_ich.png"
