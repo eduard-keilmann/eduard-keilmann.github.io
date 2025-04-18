@@ -5,7 +5,8 @@ permalink: "/impressum/"
 layout: page
 ---
 
-<h1>Impressum</h1><p>Angaben gemäß § 5 DDG</p><p>Eduard Keilmann<br> 
+{* comment *} <h1>Impressum</h1> {* endcomment *}
+<p>Angaben gemäß § 5 DDG</p><p>Eduard Keilmann<br> 
 <br> 
 Zülpicher Straße<br> 
 50937 Köln <br> 
