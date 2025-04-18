@@ -1,5 +1,5 @@
 ---
-title: "Publications/Work"
+title: "Publications"
 mathjax: true
 permalink: "/publications/"
 layout: page
