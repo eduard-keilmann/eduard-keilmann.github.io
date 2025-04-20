@@ -7,7 +7,7 @@ layout: page
 
 
 <img
-  src="/assets/IMG_1246_ich.png"
+  src="/assets/IMG_3651.jpeg"
   alt="Me"
   style="
     float: left;
