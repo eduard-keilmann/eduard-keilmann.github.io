@@ -16,7 +16,7 @@ layout: page
     height: 150px;
     object-fit: cover;
     object-position: 50% 20%;
-    border-radius: 14px;
+    border-radius: 3px;
   "
 />I am a Doctoral Candidate at the [I. Physikalisches Institut](https://astro.uni-koeln.de) at the University of Cologne in the research group of Prof. Dr. Dominik Riechers. My research interests range from the dynamics of the interstellar medium (ISM) and stellar feedback to giant molecular cloud (GMC) properties conducive for star formation in our Galaxy as well as external galaxies such as M33.
 
