@@ -125,6 +125,19 @@ I am married and have a wonderful son.
   "
 />
 <img
+  src="/assets/IMG_8749.jpeg"
+  alt="Me"
+  style="
+    float: left;
+    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 450px;
+    height: 450px;
+    object-fit: contain;
+    object-position: 50% 20%;
+    border-radius: 2px;
+  "
+/>
+<img
   src="/assets/IMG_3556.JPG"
   alt="Grand Canyon"
   style="
