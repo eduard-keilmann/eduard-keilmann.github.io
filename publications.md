@@ -10,4 +10,4 @@ I have written a number of research articles since my master's thesis, doctorate
 
 
 
-My PhD dissertation is hosted at the [University of Cologne](tbd) or also [here](tbd).
+My PhD dissertation will be hosted at the [University of Cologne](tbd) or also [here](tbd).
