@@ -14,7 +14,7 @@ Zülpicher Straße<br>
 Eduard Keilmann<br>
 </p><p><strong>Kontakt:</strong> <br>
 Telefon: 0221-4708353<br>
-E-Mail: <a href='mailto:keilmann@ph1.uni-koeln.de'>keilmann@ph1.uni-koeln.de</a></br>
+E-Mail: <a href='mailto:keilmann@ph1.uni-koeln.de'>keilmann@ph1.uni-koeln.de</a>
 </p><p><strong>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:</strong><br>
 Eduard Keilmann <br> 
 Zülpicher Straße<br> 
