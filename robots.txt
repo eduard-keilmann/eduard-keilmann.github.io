@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eduard-keilmann.github.io/sitemap.xml
