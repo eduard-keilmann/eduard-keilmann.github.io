@@ -4,9 +4,7 @@ mathjax: true
 layout: page
 ---
 
-<footer>
-  <a href="{{ "/sitemap.xml" | relative_url }}">Sitemap</a>
-</footer>
+
 
 
 <img
@@ -48,3 +46,9 @@ Zülpicher Straße 77
 Germany  
 
 E-Mail [📧](mailto:keilmann@ph1.uni-koeln.de) 
+
+<!--
+<footer>
+  <a href="{{ "/sitemap.xml" | relative_url }}">Sitemap</a>
+</footer>
+-->
