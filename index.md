@@ -19,7 +19,8 @@ layout: page
     object-position: 50% 20%;
     border-radius: 3px;
   "
-/>I am a Doctoral Candidate at the [I. Physikalisches Institut](https://astro.uni-koeln.de) at the University of Cologne in the research group of Prof. Dr. Dominik Riechers. My research interests range from the dynamics of the interstellar medium (ISM) and stellar feedback to giant molecular cloud (GMC) properties conducive for star formation in our Galaxy as well as external galaxies such as M33.
+/>
+I am a Doctoral Candidate at the [I. Physikalisches Institut](https://astro.uni-koeln.de) at the University of Cologne in the research group of Prof. Dr. Dominik Riechers. My research interests range from the dynamics of the interstellar medium (ISM) and stellar feedback to giant molecular cloud (GMC) properties conducive for star formation in our Galaxy as well as external galaxies such as M33.
 
 I am a member of the [FEEDBACK](https://astro.uni-koeln.de/riechers/research/feedback) [consortium](https://feedback.astro.umd.edu/index.html), a NASA SOFIA project that has used the upGREAT heterodyne receiver to map the [CII] 158 micrometer line in Galactic molecular clouds. It studies the interaction of massive stars with their environment (stellar feedback) in a sample of 11 sources with stellar properties ranging from single OB stars to small groups of O stars to rich young star clusters and mini starbursts.
 
