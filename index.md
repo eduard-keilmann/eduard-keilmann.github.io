@@ -34,7 +34,7 @@ Image Credit: [NASA](https://science.nasa.gov/asset/hubble/lagoon-nebula-visible
 
 {% comment %}
 <div class="home-sidebar-profile">
-  <img src="lagoon.jpg" alt="My photo" />
+  <img src="lagoon.webp" alt="My photo" />
 </div>
 {% endcomment %}
 
