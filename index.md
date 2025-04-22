@@ -27,7 +27,7 @@ I am a member of the [FEEDBACK](https://astro.uni-koeln.de/riechers/research/fee
 A selection of my research interests is presented at the [research](research.md) page. My publications as first author and co-author are listed [here](publications.md), while my CV can be found [here](CV.md). 
 If you are interested in a little more personal information about me, you can find some [here](about_me.md).
 
-![Lagoon Nebula](lagoon.jpg)
+![Lagoon Nebula](lagoon.webp)
 Lagoon nebula (M8) as measured by the Hubble Space Telescope. For me, the most beautiful image of the sky.  
 Image Credit: [NASA](https://science.nasa.gov/asset/hubble/lagoon-nebula-visible-light-view/), ESA, and STScI  
 <br>
