@@ -1,5 +1,5 @@
 ---
-title: "Eduard Keilmann"
+title: ""
 mathjax: true
 layout: page
 ---
