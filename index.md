@@ -4,6 +4,9 @@ mathjax: true
 layout: page
 ---
 
+<footer>
+  <a href="{{ "/sitemap.xml" | relative_url }}">Sitemap</a>
+</footer>
 
 
 <img
