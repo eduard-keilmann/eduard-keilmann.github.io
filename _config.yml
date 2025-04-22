@@ -45,6 +45,8 @@ plugins:
  - jekyll-seo-tag
  - jekyll-robots-txt
  - jekyll-ping-google
+ - jekyll-include-cache
+ 
 
 url: "https://eduard-keilmann.github.io"
 seo:
