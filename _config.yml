@@ -46,6 +46,7 @@ plugins:
  - jekyll-robots-txt
  - jekyll-ping-google
  - jekyll-include-cache
+ - something-blada
  
 
 url: "https://eduard-keilmann.github.io"
