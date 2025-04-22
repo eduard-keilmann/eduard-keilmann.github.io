@@ -43,6 +43,7 @@ plugins:
  - jekyll-feed
  - jekyll-sitemap
  - jekyll-seo-tag
+ - jekyll-robots-txt
 
 url: "https://eduard-keilmann.github.io"
 seo:
