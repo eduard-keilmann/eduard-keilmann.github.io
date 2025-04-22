@@ -402,7 +402,9 @@ I am married and have a wonderful son.
 
 
 
-
+<footer>
+  <a href="{{ "/sitemap.xml" | relative_url }}">Sitemap</a>
+</footer>
 
 {% comment %}  comment out
  <img
