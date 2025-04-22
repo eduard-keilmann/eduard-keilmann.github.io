@@ -41,3 +41,5 @@ comments:
 
 plugins:
  - jekyll-feed
+ - jekyll-sitemap
+ - jekyll-seos-tag
