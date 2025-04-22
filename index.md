@@ -8,7 +8,7 @@ layout: page
 
 
 <img
-  src="/assets/IMG_3651.webp"
+  src="/assets/IMG_3651_komp.jpg"
   alt="Me"
   style="
     float: left;
