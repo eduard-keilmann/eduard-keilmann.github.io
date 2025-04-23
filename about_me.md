@@ -143,8 +143,6 @@ I am married and have a wonderful son.
   style="
     float: left;
     margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
-    width: 450px;
-    height: 450px;
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
@@ -156,8 +154,6 @@ I am married and have a wonderful son.
   style="
     float: left;
     margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
-    width: 450px;
-    height: 450px;
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
@@ -169,8 +165,6 @@ I am married and have a wonderful son.
   style="
     float: left;
     margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
-    width: 450px;
-    height: 450px;
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
@@ -212,8 +206,6 @@ I am married and have a wonderful son.
   style="
     float: left;
     margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
-    width: 450px;
-    height: 450px;
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
@@ -268,8 +260,6 @@ I am married and have a wonderful son.
   style="
     float: left;
     margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
-    width: 450px;
-    height: 450px;
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
@@ -281,8 +271,6 @@ I am married and have a wonderful son.
   style="
     float: left;
     margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
-    width: 450px;
-    height: 450px;
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
@@ -294,8 +282,6 @@ I am married and have a wonderful son.
   style="
     float: left;
     margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
-    width: 450px;
-    height: 450px;
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
@@ -307,8 +293,6 @@ I am married and have a wonderful son.
   style="
     float: left;
     margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
-    width: 450px;
-    height: 450px;
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
@@ -320,8 +304,6 @@ I am married and have a wonderful son.
   style="
     float: left;
     margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
-    width: 450px;
-    height: 450px;
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
@@ -333,8 +315,6 @@ I am married and have a wonderful son.
   style="
     float: left;
     margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
-    width: 450px;
-    height: 450px;
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
