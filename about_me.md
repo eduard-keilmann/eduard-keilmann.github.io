@@ -176,6 +176,7 @@ I am married and have a wonderful son.
     border-radius: 2px;
   "
 />
+<!--
 <img
   src="/assets/IMG_4972.jpg"
   alt="Yosemite"
@@ -189,6 +190,8 @@ I am married and have a wonderful son.
     border-radius: 2px;
   "
 />
+-->
+<!--
 <img
   src="/assets/IMG_4982.jpg"
   alt="Yosemite"
@@ -202,6 +205,7 @@ I am married and have a wonderful son.
     border-radius: 2px;
   "
 />
+-->
 <img
   src="/assets/IMG_4984.jpg"
   alt="Yosemite"
@@ -215,6 +219,7 @@ I am married and have a wonderful son.
     border-radius: 2px;
   "
 />
+<!--
 <img
   src="/assets/IMG_5011.jpg"
   alt="Yosemite"
@@ -228,6 +233,7 @@ I am married and have a wonderful son.
     border-radius: 2px;
   "
 />
+-->
 <img
   src="/assets/IMG_5506.jpg"
   alt="Grand Canyon"
@@ -241,6 +247,7 @@ I am married and have a wonderful son.
     border-radius: 2px;
   "
 />
+<!--
 <img
   src="/assets/IMG_5643.jpg"
   alt="Grand Canyon"
@@ -254,6 +261,7 @@ I am married and have a wonderful son.
     border-radius: 2px;
   "
 />
+-->
 <img
   src="/assets/IMG_5648.jpg"
   alt="Grand Canyon"
