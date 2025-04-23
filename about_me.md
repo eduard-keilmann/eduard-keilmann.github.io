@@ -142,7 +142,7 @@ I am married and have a wonderful son.
   alt="Grand Canyon"
   style="
     float: left;
-    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    margin: 3px 3px 3px 3px;       /* top 0, right 1em, bottom 1em, left 0 */
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
@@ -153,7 +153,7 @@ I am married and have a wonderful son.
   alt="USA"
   style="
     float: left;
-    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    margin: 3px 3px 3px 3px;       /* top 0, right 1em, bottom 1em, left 0 */
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
@@ -164,7 +164,7 @@ I am married and have a wonderful son.
   alt="Golden Gate Bridge"
   style="
     float: left;
-    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    margin: 3px 3px 3px 3px;       /* top 0, right 1em, bottom 1em, left 0 */
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
@@ -205,7 +205,7 @@ I am married and have a wonderful son.
   alt="Yosemite"
   style="
     float: left;
-    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    margin: 3px 3px 3px 3px;       /* top 0, right 1em, bottom 1em, left 0 */
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
@@ -231,7 +231,7 @@ I am married and have a wonderful son.
   alt="Grand Canyon"
   style="
     float: left;
-    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    margin: 3px 3px 3px 3px;       /* top 0, right 1em, bottom 1em, left 0 */
     /*width: 450px;
     height: 450px;*/
     object-fit: contain;
@@ -259,7 +259,7 @@ I am married and have a wonderful son.
   alt="Grand Canyon"
   style="
     float: left;
-    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    margin: 3px 3px 3px 3px;       /* top 0, right 1em, bottom 1em, left 0 */
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
@@ -270,7 +270,7 @@ I am married and have a wonderful son.
   alt="Grand Canyon"
   style="
     float: left;
-    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    margin: 3px 3px 3px 3px;       /* top 0, right 1em, bottom 1em, left 0 */
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
@@ -281,7 +281,7 @@ I am married and have a wonderful son.
   alt="Grand Canyon Antilope"
   style="
     float: left;
-    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    margin: 3px 3px 3px 3px;       /* top 0, right 1em, bottom 1em, left 0 */
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
@@ -292,7 +292,7 @@ I am married and have a wonderful son.
   alt="USA"
   style="
     float: left;
-    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    margin: 3px 3px 3px 3px;       /* top 0, right 1em, bottom 1em, left 0 */
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
@@ -303,7 +303,7 @@ I am married and have a wonderful son.
   alt="Arches"
   style="
     float: left;
-    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    margin: 3px 3px 3px 3px;       /* top 0, right 1em, bottom 1em, left 0 */
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
@@ -314,7 +314,7 @@ I am married and have a wonderful son.
   alt="USA"
   style="
     float: left;
-    margin: 1px 1px 1px 1px;       /* top 0, right 1em, bottom 1em, left 0 */
+    margin: 3px 3px 3px 3px;       /* top 0, right 1em, bottom 1em, left 0 */
     object-fit: contain;
     object-position: 50% 20%;
     border-radius: 2px;
