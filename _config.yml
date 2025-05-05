@@ -40,8 +40,8 @@ comments:
 #  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
- - jekyll-feed
  - jekyll-sitemap
+ - jekyll-feed
  - jekyll-seo-tag
  - jekyll-robots-txt
  - jekyll-ping-google
