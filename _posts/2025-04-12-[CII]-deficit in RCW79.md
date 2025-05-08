@@ -17,7 +17,7 @@ We modeled the [CII] emission with the SimLine non‑LTE radiative transfer code
 
 I developed a procedure to reconstruct the missing [CII] flux by modeling the line wings and obtained correction factors ranging from 1.1 to 1.4. We examined the correlation between the corrected [CII] intensities and total FIR continuum and found that the restored data follow a linear relation without a [CII]‑deficit. We argue that alternative explanations for [CII]‑deficits, such as high dust optical depth or reduced photoelectric heating efficiency, are less likely under the moderate density and radiation field conditions of S144. We show that self‑absorption by cooler C⁺ layers along the line of sight can account for the apparent [CII]‑deficit in this PDR region. We conclude that self‑absorption must be accounted for when interpreting [CII]‑deficits in Galactic H II bubbles and that broader surveys are needed to quantify the prevalence of this effect.
 
-Read the full A&A letter [here](https://arxiv.org/abs/2504.08976).
+Read the full A&A letter [here](https://arxiv.org/abs/2504.08976) or [here](https://doi.org/10.1051/0004-6361/202453445).
 
 The movies produced within this research project are:
 
