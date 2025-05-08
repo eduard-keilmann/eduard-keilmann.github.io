@@ -1,5 +1,6 @@
 ---
 title: ""
+permalink: /
 mathjax: true
 layout: page
 ---
