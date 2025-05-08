@@ -86,3 +86,9 @@ a:hover,
   height: auto;
 }
 
+/* Nur, falls Du global noch etwas für .video-container brauchst: */
+.video-container {
+  margin: 0 auto;
+  /* mehr gibt’s nicht nötig */
+}
+
