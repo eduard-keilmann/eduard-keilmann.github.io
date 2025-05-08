@@ -14,13 +14,18 @@
       title="YouTube video player"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen>
-    </iframe>
+      allowfullscreen
+    ></iframe>
   {% else %}
-    <video controls preload="metadata"{% if include.poster %} poster="{{ include.poster }}"{% endif %}>
+    <video
+      controls
+      preload="none"
+      {% if include.poster %}poster="{{ include.poster }}"{% endif %}
+    >
       <source src="{{ include.src }}" type="video/mp4">
       Dein Browser unterstützt das Video-Tag nicht.
     </video>
   {% endif %}
 </div>
+
 
