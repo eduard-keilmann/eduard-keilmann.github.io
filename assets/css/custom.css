@@ -74,7 +74,7 @@ a:hover,
   position: relative;
   width: 100%;
   max-width: 100%;   /* niemals breiter als der Viewport */
-  aspect-ratio: 16 / 9;   /* Browser rechnet automatisch Höhe */
+  /* aspect-ratio: 16 / 9;   /* Browser rechnet automatisch Höhe */
   height: auto;
   overflow: hidden;
 }
