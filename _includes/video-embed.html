@@ -1,0 +1,25 @@
+{% comment %}
+  video-embed.html
+  Parameter:
+    youtube: true|false
+    id: YouTube-Video-ID (wenn youtube=true)
+    src: Pfad zur Videodatei (wenn youtube=false)
+    poster: optionales Vorschaubild
+{% endcomment %}
+
+<div class="video-container">
+  {% if include.youtube %}
+    <iframe
+      src="https://www.youtube.com/embed/{{ include.id }}?rel=0"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+  {% else %}
+    <video controls preload="metadata"{% if include.poster %} poster="{{ include.poster }}"{% endif %}>
+      <source src="{{ include.src }}" type="video/mp4">
+      Dein Browser unterstützt das Video-Tag nicht.
+    </video>
+  {% endif %}
+</div>
