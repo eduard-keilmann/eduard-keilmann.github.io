@@ -19,3 +19,19 @@ I developed a procedure to reconstruct the missing [CII] flux by modeling the li
 
 Read the full A&A letter [here](https://arxiv.org/abs/2504.08976).
 
+The movies produced within this research project are:
+
+<img
+  src="/assets/movie_CII_12CO32_zoom.mp4"
+  alt="CII_12CO32"
+  style="
+    float: left;
+    margin: 0.5em 0.5em 0.5em 0.5em;       /* top 0, right 1em, bottom 1em, left 0 */
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    object-position: 50% 50%;
+    border-radius: 2px;
+  "
+/>
+
