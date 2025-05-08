@@ -5,7 +5,7 @@ layout: page
 ---
 
 <footer>
-  <a href="{{ "[/sitemap.xml](https://eduard-keilmann.github.io/sitemap.xml)" | absolute_url }}">Sitemap</a>
+  <a href="{{ "https://eduard-keilmann.github.io/sitemap.xml" | absolute_url }}">Sitemap</a>
 </footer>
 
 
