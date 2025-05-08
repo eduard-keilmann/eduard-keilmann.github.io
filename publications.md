@@ -1,8 +1,8 @@
 ---
 title: "Publications"
-mathjax: true
-permalink: "/publications/"
+permalink: "/publications"
 layout: page
+mathjax: true
 ---
 
 I have written a number of research articles since my master's thesis, doctorate, and afterwards. At the NASA ADS database you will easily find all my work listed, from which you can access all open access research articles:  
