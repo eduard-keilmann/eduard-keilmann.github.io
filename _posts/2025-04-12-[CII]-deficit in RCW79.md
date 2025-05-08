@@ -21,5 +21,6 @@ Read the full A&A letter [here](https://arxiv.org/abs/2504.08976) or [here](http
 
 The movies produced within this research project are:
 
-{% include video.html youtube=false src="/assets/movie_CII_12CO32_zoom.mp4" %}
+{% include video-embed.html youtube=false src="/assets/movie_CII_12CO32_zoom.mp4"%}
+
 
