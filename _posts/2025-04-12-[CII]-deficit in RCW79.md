@@ -21,7 +21,22 @@ Read the full A&A letter [here](https://arxiv.org/abs/2504.08976) or [here](http
 
 The movies produced within this research project are:
 
+
+
+
+
+
+
+{% include video-embed.html youtube=false src="/assets/rcw79_pv_cut_CII_cHII_horizontal.mp4"%}
+{% include video-embed.html youtube=false src="/assets/rcw79_pv_cut_CII_cHII_rotating.mp4"%}
+{% include video-embed.html youtube=false src="/assets/rcw79_pv_cut_CII_cHII_vertical.mp4"%}
+{% include video-embed.html youtube=false src="/assets/rcw79_pv_cut_CII_cHII_inclined.mp4"%}
+{% include video-embed.html youtube=false src="/assets/specs_over_image_pos.mp4"%}
+
 {% include video-embed.html youtube=false src="/assets/movie_CII_12CO32_zoom.mp4"%}
+{% include video-embed.html youtube=false src="/assets/movie_IRAC4_CII_zoom.mp4"%}
+{% include video-embed.html youtube=false src="/assets/movie_NH2_CII_zoom.mp4"%}
+{% include video-embed.html youtube=false src="/assets/movie_PACS_70_CII_zoom.mp4"%}
 
 
 
