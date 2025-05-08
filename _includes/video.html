@@ -1,0 +1,22 @@
+{% comment %}
+  include.video.html:
+  Parameter:
+    id: YouTube-ID (wenn youtube=true)
+    src: Pfad zur Video-Datei (wenn youtube=false)
+    youtube: true|false
+{% endcomment %}
+
+<div class="video-container">
+  {% if include.youtube %}
+    <iframe
+      src="https://www.youtube.com/embed/{{ include.id }}?rel=0"
+      frameborder="0"
+      allowfullscreen>
+    </iframe>
+  {% else %}
+    <video controls preload="metadata" poster="{{ include.poster | default: '' }}">
+      <source src="{{ include.src }}" type="video/mp4">
+      Dein Browser kann dieses Video nicht abspielen.
+    </video>
+  {% endif %}
+</div>
