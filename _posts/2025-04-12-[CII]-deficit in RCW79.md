@@ -19,13 +19,7 @@ I developed a procedure to reconstruct the missing [CII] flux by modeling the li
 
 Read the full A&A letter [here](https://arxiv.org/abs/2504.08976) or [here](https://doi.org/10.1051/0004-6361/202453445).
 
-The movies produced within this research project are:
-
-
-
-
-
-
+The movies produced within this research project are listed below:
 
 {% include video-embed.html youtube=false src="/assets/rcw79_pv_cut_CII_cHII_horizontal.mp4"%}
 {% include video-embed.html youtube=false src="/assets/rcw79_pv_cut_CII_cHII_rotating.mp4"%}
