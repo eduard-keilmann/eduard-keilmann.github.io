@@ -2,12 +2,21 @@
   video-embed.html
   Parameter:
     youtube: true|false
-    id: YouTube-Video-ID (wenn youtube=true)
+    id: YouTube-ID (wenn youtube=true)
     src: Pfad zur Videodatei (wenn youtube=false)
     poster: optionales Vorschaubild
+    padding_top: Container-Padding in Prozent (Default 56.25% für 16:9)
 {% endcomment %}
 
-<div class="video-container">
+{% assign pad = include.padding_top | default: "56.25%" %}
+
+<div class="video-container" style="
+     position: relative;
+     width: 100%;
+     max-width: 100%;
+     padding-top: {{ pad }};
+     overflow: hidden;
+">
   {% if include.youtube %}
     <iframe
       src="https://www.youtube.com/embed/{{ include.id }}?rel=0"
@@ -15,17 +24,17 @@
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
     ></iframe>
   {% else %}
     <video
       controls
       preload="none"
       {% if include.poster %}poster="{{ include.poster }}"{% endif %}
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: contain;"
     >
       <source src="{{ include.src }}" type="video/mp4">
       Dein Browser unterstützt das Video-Tag nicht.
     </video>
   {% endif %}
 </div>
-
-
