@@ -5,10 +5,16 @@ layout: page
 ---
 
 <footer>
-  <a href="{{ "/sitemap.xml" | relative_url }}">Sitemap</a>
+  <a href="{{ "[/sitemap.xml](https://eduard-keilmann.github.io/sitemap.xml)" | absolute_url }}">Sitemap</a>
 </footer>
 
 
+
+<!--
+<footer>
+  <a href="{{ "/sitemap.xml" | relative_url }}">Sitemap</a>
+</footer>
+->>
 
 I am a Doctoral Candidate<img
   src="/assets/IMG_3651_komp.jpg"
