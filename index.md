@@ -14,7 +14,7 @@ layout: page
 <footer>
   <a href="{{ "/sitemap.xml" | relative_url }}">Sitemap</a>
 </footer>
-->>
+-->
 
 I am a Doctoral Candidate<img
   src="/assets/IMG_3651_komp.jpg"
