@@ -1,8 +1,8 @@
 ---
 title: "Research interests"
-mathjax: true
 permalink: "/research/"
 layout: page
+mathjax: true
 ---
 
 I am interested in the understanding of how atomic and molecular clouds form in the Milky Way and external galaxies that lead to star formation, and how stellar feedback mechanisms affect the Interstellar Medium (ISM), which in turn affect star formation. I also work with CO and [CII] data from the NASA SOFIA program FEEDBACK at the I. Physikalisches Institut, Universität zu Köln. This encompasses exploring and analyzing astrophysical data, modelling dust dynamics, as well as modelling and studying photo-dissociation regions (PDRs). It also involves developing various techniques in those areas.
