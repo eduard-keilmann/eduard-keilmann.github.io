@@ -11,7 +11,7 @@ I am interested in the understanding of how atomic and molecular clouds form in 
 <!--During my PhD I wrote a code library in Python for the analysis of astrophysical data and models. This collection of code and functions will soon be published on github.
 -->
 
-During my PhD I wrote a code library in Python for the analysis of astrophysical data and models. This collection of code and functions will be published on github in the future.
+During my PhD I have been closely working with Dr. Nicola Schneider, Dr. Volker Ossenkopf-Okada, Dr. Robert Simon, and Prof. Dr. Jürgen Stutzki; and I wrote a code library in Python for the analysis of astrophysical data and models. This collection of code and functions will be published on github in the future.
 
 # Some Research Examples
 
