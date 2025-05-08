@@ -34,6 +34,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: LinkedIn, icon: linkedin, url: "https://de.linkedin.com/in/eduard-keilmann-a0b35b281"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
   - {title: Impressum, url: "https://eduard-keilmann.github.io/impressum/"}
+  - {title: Sitemap, url: "https://eduard-keilmann.github.io/sitemap.xml}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
