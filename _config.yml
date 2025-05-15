@@ -19,7 +19,7 @@ mathjax: true
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   # - {file: "index.html"}
-  - {file: "https://eduard-keilmann.github.io/research/research.md", title: "Research interests"}
+  - {url: "https://eduard-keilmann.github.io/research/", title: "Research interests"}
   - {file: "publications.md", title: "Publications"}
   - {file: "CV.md", title: "CV"}
   - {file: "about_me.md", title: "About me"}
