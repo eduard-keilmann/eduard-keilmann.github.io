@@ -20,9 +20,9 @@ mathjax: true
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   # - {file: "index.html"}
   - {url: "https://eduard-keilmann.github.io/research/", title: "Research interests"}
-  - {file: "publications.md", title: "Publications"}
-  - {file: "CV.md", title: "CV"}
-  - {file: "about_me.md", title: "About me"}
+  - {url: "https://eduard-keilmann.github.io/publications/", title: "Publications"}
+  - {file: "CV.pdf", title: "CV"}
+  - {url: "https://eduard-keilmann.github.io/about/", title: "About me"}
   #- {file: "tutorial.html", title: "tutorial of this theme"}
   #- {file: "README.md", title: "Installation Guide of this theme"}
 
