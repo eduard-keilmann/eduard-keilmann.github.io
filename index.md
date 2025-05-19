@@ -5,10 +5,11 @@ mathjax: true
 layout: page
 ---
 
+<!--
 <footer>
   <a href="{{ "https://eduard-keilmann.github.io/sitemap.xml" | absolute_url }}">Sitemap</a>
 </footer>
-
+-->
 
 
 <!--
