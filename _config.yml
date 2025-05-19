@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   # - {file: "index.html"}
   - {url: "https://eduard-keilmann.github.io/research/", title: "Research interests"}
   - {url: "https://eduard-keilmann.github.io/publications/", title: "Publications"}
-  - {file: "CV_Lebenslauf_research_Englisch.pdf", title: "CV"}
+  - {file: "assets/CV_Lebenslauf_research_Englisch.pdf", title: "CV"}
   - {url: "https://eduard-keilmann.github.io/about/", title: "About me"}
   #- {file: "tutorial.html", title: "tutorial of this theme"}
   #- {file: "README.md", title: "Installation Guide of this theme"}
