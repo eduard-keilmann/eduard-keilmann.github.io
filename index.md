@@ -52,7 +52,7 @@ Image Credit: [NASA](https://science.nasa.gov/asset/hubble/lagoon-nebula-visible
   
 ### Contact
 
-I. Physikalisches Insitut, University of Cologne\\
+I. Physikalisches Institut, University of Cologne\\
 Zülpicher Straße 77  
 50937 Köln  
 Germany  
