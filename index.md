@@ -18,7 +18,7 @@ layout: page
 </footer>
 -->
 
-I am a Doctoral Researcher<img
+I am a Postdoc<img
   src="/assets/IMG_3651_komp.jpg"
   alt="Me"
   style="
