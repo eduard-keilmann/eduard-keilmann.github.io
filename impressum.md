@@ -11,7 +11,7 @@ layout: page
 Zülpicher Straße<br> 
 50937 Köln <br> 
 </p><p> <strong>Vertreten durch: </strong><br>
-Eduard Keilmann<br>
+Dr. Eduard Keilmann<br>
 </p><p><strong>Kontakt:</strong> <br>
 Telefon: 0221-4708353<br>
 E-Mail: <a href='mailto:keilmann@ph1.uni-koeln.de'>keilmann@ph1.uni-koeln.de</a>
