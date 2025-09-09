@@ -14,4 +14,4 @@ My PhD dissertation is hosted at the [University of Cologne](https://kups.ub.uni
 
 
 I am excited to share with you my first public outreach talk (in German), which I gave on September 5 2025 in Frankfurt (Physikalischer Verein) to a somewhat larger audience, about why stars do not form as quickly as we might think. It was streamed live on Youtube and you can (re-)watch it here: 
-https://www.youtube.com/watch?v=lgepIpD3-PE
+(https://www.youtube.com/watch?v=lgepIpD3-PE)
