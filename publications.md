@@ -10,7 +10,7 @@ I have written a number of research articles since my master's thesis, doctorate
 
 # PhD Dissertation
 
-My PhD dissertation is hosted at the [University of Cologne](https://kups.ub.uni-koeln.de/78534/) or also [here](assets/Dissertation_Eduard_Keilmann_publ_komp.pdf).
+My PhD dissertation is hosted at the [University of Cologne](https://kups.ub.uni-koeln.de/78534/) and also [here](assets/Dissertation_Eduard_Keilmann_publ_komp.pdf).
 
 # Public Outreach
 
