@@ -34,6 +34,7 @@ I am a Postdoc<img
 
 
 I am a member of the [FEEDBACK](https://astro.uni-koeln.de/riechers/research/feedback) [consortium](https://feedback.astro.umd.edu/index.html), a NASA SOFIA project that has used the upGREAT heterodyne receiver to map the [CII] 158 micrometer line in Galactic molecular clouds. It studies the interaction of massive stars with their environment (stellar feedback) in a sample of 11 sources with stellar properties ranging from single OB stars to small groups of O stars to rich young star clusters and mini starbursts.
+I am also a member of NASA's Astrophysics Stratospheric Telescope for High Spectral Resolution Observations at Submillimeter-wavelengths ([ASTHROS](https://www.jpl.nasa.gov/missions/asthros/)) high-altitude balloon mission, with one main science goal to study stellar feedback in the Milky Way and other galaxies.
 
 A selection of my research interests is presented at the <a href="{{ "https://eduard-keilmann.github.io/research/" | absolute_url }}">research</a> page. My publications as first author and co-author are listed <!--[here](publications.md)--> <a href="{{ "https://eduard-keilmann.github.io/publications/" | absolute_url }}">here</a>, while my CV can be found [here](assets/CV_Lebenslauf_Eduard_Keilmann_research_Englisch.pdf). 
 If you are interested in a little more personal information about me, you can find some <a href="{{ "https://eduard-keilmann.github.io/about/" | absolute_url }}">here</a>. <!--[here](about_me.md).-->
