@@ -40,7 +40,7 @@ I am also a member of NASA's Astrophysics Stratospheric Telescope for High Spect
 Lagoon nebula (M8) as measured by the Hubble Space Telescope. For me, the most beautiful image of the sky.  
 Image Credit: [NASA](https://science.nasa.gov/asset/hubble/lagoon-nebula-visible-light-view/), ESA, and STScI  <br>
 
-A selection of my research interests is presented at the <a href="{{ "https://eduard-keilmann.github.io/research/" | absolute_url }}">research</a> page. My publications as first author and co-author are listed <!--[here](publications.md)--> <a href="{{ "https://eduard-keilmann.github.io/publications/" | absolute_url }}">here</a>, while my CV can be found [here](assets/CV_Lebenslauf_Eduard_Keilmann_research_Englisch.pdf). 
+A selection of my research interests is presented at the <a href="{{ "https://eduard-keilmann.github.io/research/" | absolute_url }}">research</a> page. My publications as first author and co-author are listed <!--[here](publications.md)--> <a href="{{ "https://eduard-keilmann.github.io/publications/" | absolute_url }}">here</a>, while my resume/CV can be found [here](assets/CV_Lebenslauf_Eduard_Keilmann_research_Englisch.pdf). 
 If you are interested in a little more personal information about me, you can find some <a href="{{ "https://eduard-keilmann.github.io/about/" | absolute_url }}">here</a>. <!--[here](about_me.md).-->
 
 
