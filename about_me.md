@@ -53,7 +53,7 @@ In addition to playing the piano, I am also into bookbinding, which is a very ca
   "
 />
 
-I am married and have a wonderful son.
+I am married and have two wonderful kids.
 
 {% comment %}
 <img
