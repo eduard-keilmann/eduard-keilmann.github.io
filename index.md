@@ -20,12 +20,12 @@ layout: page
 
 I am a Postdoc<img
   src="/assets/IMG_3651_.jpg"
-  alt="Me"
+  alt="Dr. Eduard Keilmann"
   style="
     float: left;
     margin: 0.5em 1em 0.5em 0.5em;       /* top 0, right 1em, bottom 1em, left 0 */
     width: 150px;
-    height: 160px;
+    height: 165px;
     object-fit: cover;
     object-position: 50% 10%;
     border-radius: 3px;
