@@ -19,7 +19,7 @@ layout: page
 -->
 
 I am a Postdoc<img
-  src="/assets/IMG_3651_komp.jpg"
+  src="/assets/IMG_3651_.jpg"
   alt="Me"
   style="
     float: left;
