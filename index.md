@@ -25,7 +25,7 @@ I am a Postdoc<img
     float: left;
     margin: 0.5em 1em 0.5em 0.5em;       /* top 0, right 1em, bottom 1em, left 0 */
     width: 150px;
-    height: 155px;
+    height: 160px;
     object-fit: cover;
     object-position: 50% 10%;
     border-radius: 3px;
