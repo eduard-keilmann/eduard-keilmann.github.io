@@ -39,7 +39,7 @@ In general, my research interests range from the dynamics of the interstellar me
 
 I am a member of the [FEEDBACK](https://astro.uni-koeln.de/riechers/research/feedback) [consortium](https://feedback.astro.umd.edu/index.html), a NASA SOFIA (Stratospheric Observatory for Infrared Astronomy, modified aircraft with a 2.7 meter telescope) project that has used the upGREAT heterodyne receiver to map the [CII] 158 micrometer line in Galactic molecular clouds. It studies the interaction of massive stars with their environment (stellar feedback) in a sample of 11 sources with stellar properties ranging from single OB stars to small groups of O stars to rich young star clusters and mini starbursts.\\
 I am also a member of NASA's Astrophysics Stratospheric Telescope for High Spectral Resolution Observations at Submillimeter-wavelengths ([ASTHROS](https://www.jpl.nasa.gov/missions/asthros/)) high-altitude balloon mission, with one main science goal to study stellar feedback in the Milky Way and other galaxies.
-Finally, I am a member of the University of Cologne [Collaborative Research Center, CRC1601](https://sfb1601.astro.uni-koeln.de/), Project B2, which studies massive-star feedback and its gaseous environments using velocity-resolved atomic and molecular spectroscopy.
+Finally, I am a member of the University of Cologne [Collaborative Research Center (CRC1601)](https://sfb1601.astro.uni-koeln.de/), Project B2, which studies massive-star feedback and its gaseous environments using velocity-resolved atomic and molecular spectroscopy.
 
 ![Lagoon Nebula](lagoon.webp)
 Lagoon nebula (M8) as measured by the Hubble Space Telescope. For me, the most beautiful image of the sky.  
