@@ -31,7 +31,7 @@ I am a Postdoc<img
     border-radius: 3px;
   "
 /> at the [I. Physikalisches Institut](https://astro.uni-koeln.de) at the University of Cologne in the research group of Prof. Dr. Dominik Riechers.
-In 2025, I completed my PhD theses "The Genesis of Stars: From From Giant Molecular Clouds to
+In 2025, I completed my PhD thesis "The Genesis of Stars: From From Giant Molecular Clouds to
 Star-Forming Cores" in the research group of Prof. Dr. Jürgen Stutzki and Prof. Dr. Dominik Riechers at the University of Cologne.  
 In this thesis and the following Postdoc research, I focus on studying molecular cloud- and star-formation on different spatial scales and with various observational tracers, ranging from dust to atomic and molecular lines.
 In general, my research interests range from the dynamics of the interstellar medium (ISM) and stellar feedback to giant molecular cloud (GMC) properties conducive for star formation in our Galaxy as well as external galaxies such as M33.
