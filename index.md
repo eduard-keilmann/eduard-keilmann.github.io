@@ -30,11 +30,16 @@ I am a Postdoc<img
     object-position: 50% 10%;
     border-radius: 3px;
   "
-/> at the [I. Physikalisches Institut](https://astro.uni-koeln.de) at the University of Cologne in the research group of Prof. Dr. Dominik Riechers. My research interests range from the dynamics of the interstellar medium (ISM) and stellar feedback to giant molecular cloud (GMC) properties conducive for star formation in our Galaxy as well as external galaxies such as M33.
+/> at the [I. Physikalisches Institut](https://astro.uni-koeln.de) at the University of Cologne in the research group of Prof. Dr. Dominik Riechers.
+In 2025, I completed my PhD theses "The Genesis of Stars: From From Giant Molecular Clouds to
+Star-Forming Cores" in the research group of Prof. Dr. Jürgen Stutzki and Prof. Dr. Dominik Riechers at the University of Cologne.  
+In this thesis and the following Postdoc research, I focus on studying molecular cloud- and star-formation on different spatial scales and with various observational tracers, ranging from dust to atomic and molecular lines.
+In general, my research interests range from the dynamics of the interstellar medium (ISM) and stellar feedback to giant molecular cloud (GMC) properties conducive for star formation in our Galaxy as well as external galaxies such as M33.
 
 
-I am a member of the [FEEDBACK](https://astro.uni-koeln.de/riechers/research/feedback) [consortium](https://feedback.astro.umd.edu/index.html), a NASA SOFIA project that has used the upGREAT heterodyne receiver to map the [CII] 158 micrometer line in Galactic molecular clouds. It studies the interaction of massive stars with their environment (stellar feedback) in a sample of 11 sources with stellar properties ranging from single OB stars to small groups of O stars to rich young star clusters and mini starbursts.\\
+I am a member of the [FEEDBACK](https://astro.uni-koeln.de/riechers/research/feedback) [consortium](https://feedback.astro.umd.edu/index.html), a NASA SOFIA (Stratospheric Observatory for Infrared Astronomy, modified aircraft with a 2.7 meter telescope) project that has used the upGREAT heterodyne receiver to map the [CII] 158 micrometer line in Galactic molecular clouds. It studies the interaction of massive stars with their environment (stellar feedback) in a sample of 11 sources with stellar properties ranging from single OB stars to small groups of O stars to rich young star clusters and mini starbursts.\\
 I am also a member of NASA's Astrophysics Stratospheric Telescope for High Spectral Resolution Observations at Submillimeter-wavelengths ([ASTHROS](https://www.jpl.nasa.gov/missions/asthros/)) high-altitude balloon mission, with one main science goal to study stellar feedback in the Milky Way and other galaxies.
+Finally, I am a member of the University of Cologne [Collaborative Research Center, CRC1601](https://sfb1601.astro.uni-koeln.de/), Project B2, which studies massive-star feedback and its gaseous environments using velocity-resolved atomic and molecular spectroscopy.
 
 ![Lagoon Nebula](lagoon.webp)
 Lagoon nebula (M8) as measured by the Hubble Space Telescope. For me, the most beautiful image of the sky.  
